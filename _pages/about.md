@@ -6,7 +6,7 @@ subtitle: New York, NY
 
 profile:
   align: right
-  image: yizi_zhang_photo.jpeg
+  image: yizi_zhang_photo.png
   image_circular: false # crops the image to make it circular
 ---
 
