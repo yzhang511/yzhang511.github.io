@@ -1,7 +1,7 @@
 @article{zhang2023bypassing,
   title={Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes},
   author={Zhang, Yizi and He, Tianxiao and Boussard, Julien and Windolf, Charlie and Winter, Olivier and Trautmann, Eric and Roth, Noam and Barrell, Hailey and Churchland, Mark M and Steinmetz, Nicholas A and others},
-  journal={NeurIPS 2023},
+  journal={NeurIPS},
   year={2023},
   abstract={
     Neural decoding and its applications to brain computer interfaces (BCI) are essential for understanding the association between neural activity and behavior. A prerequisite for many decoding approaches is spike sorting, the assignment of action potentials (spikes) to individual neurons. Current spike sorting algorithms, however, can be inaccurate and do not properly model uncertainty of spike assignments, therefore discarding information that could potentially improve decoding performance. Recent advances in high-density probes (e.g., Neuropixels) and computational methods now allow for extracting a rich set of spike features from unsorted data; these features can in turn be used to directly decode behavioral correlates. To this end, we propose a spike sorting-free decoding method that directly models the distribution of extracted spike features using a mixture of Gaussians (MoG) encoding the uncertainty of spike assignments, without aiming to solve the spike clustering problem explicitly. We allow the mixing proportion of the MoG to change over time in response to the behavior and develop variational inference methods to fit the resulting model and to perform decoding. We benchmark our method with an extensive suite of recordings from different animals and probe geometries, demonstrating that our proposed decoder can consistently outperform current methods based on thresholding (i.e. multi-unit activity) and spike sorting.
@@ -10,36 +10,34 @@
   pdf={https://www.biorxiv.org/content/10.1101/2023.09.21.558869v1},
   code={https://github.com/yzhang511/density_decoding},
   selected={true}
-}---
----
-
+}
 
 @article{zhang2022motion,
   title={Motion-Invariant Variational Auto-Encoding of Brain Structural Connectomes},
   author={Zhang, Yizi and Liu, Meimei and Zhang, Zhengwu and Dunson, David},
-  journal={arXiv preprint arXiv:2212.04535},
+  journal={arXiv},
   year={2023},
   abstract={Mapping of human brain structural connectomes via diffusion MRI offers a unique opportunity to
-understand brain structural connectivity and relate it to
-various human traits, such as cognition. However, motion
-artifacts from head movement during image acquisition
-can impact the connectome reconstructions, rendering the
-subsequent inference results unreliable. We aim to develop
-a generative model to learn low-dimensional representations of structural connectomes that are invariant to motion
-artifacts, so that we can link brain networks and human
-traits more accurately, and generate motion-adjusted connectomes. We applied the proposed model to data from
-the Adolescent Brain Cognitive Development (ABCD) study
-and the Human Connectome Project (HCP) to investigate
-how our motion-invariant connectomes facilitate understanding of the brain network and its relationship with
-cognition. Empirical results demonstrate that the proposed
-motion-invariant variational auto-encoder (inv-VAE) outperforms its competitors on various aspects. In particular,
-motion-adjusted structural connectomes are more strongly
-associated with a wide array of cognition-related traits than
-other approaches without motion adjustment.},
-   preview={inv_vae_front_page.png},
-   pdf={https://arxiv.org/pdf/2212.04535.pdf},
-   code={https://github.com/yzhang511/inv-vae},
-   selected={true}
+  understand brain structural connectivity and relate it to
+  various human traits, such as cognition. However, motion
+  artifacts from head movement during image acquisition
+  can impact the connectome reconstructions, rendering the
+  subsequent inference results unreliable. We aim to develop
+  a generative model to learn low-dimensional representations of structural connectomes that are invariant to motion
+  artifacts, so that we can link brain networks and human
+  traits more accurately, and generate motion-adjusted connectomes. We applied the proposed model to data from
+  the Adolescent Brain Cognitive Development (ABCD) study
+  and the Human Connectome Project (HCP) to investigate
+  how our motion-invariant connectomes facilitate understanding of the brain network and its relationship with
+  cognition. Empirical results demonstrate that the proposed
+  motion-invariant variational auto-encoder (inv-VAE) outperforms its competitors on various aspects. In particular,
+  motion-adjusted structural connectomes are more strongly
+  associated with a wide array of cognition-related traits than
+  other approaches without motion adjustment.},
+preview={inv_vae_front_page.png},
+pdf={https://arxiv.org/pdf/2212.04535.pdf},
+code={https://github.com/yzhang511/inv-vae},
+selected={true}
 }
 
 @article{ayuso2023predicting,
