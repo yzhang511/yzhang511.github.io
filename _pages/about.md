@@ -16,7 +16,7 @@ I'm currently in my third year of the Statistics PhD program at Columbia Univers
 I am broadly interested in machine learning and statistics with recent interests in:
 
 - Probabilistic Machine Learning:  Latent variable models, deep generative models, variational inference
-- Computational Neuroscience:  Neural decoding, brain-computer interfaces, population neural dynamics}
-- Data Valuation: Influence functions for black-box models, time series data valuation}
+- Computational Neuroscience:  Neural decoding, brain-computer interfaces, population neural dynamics
+- Data Valuation: Influence functions for black-box models, time series data valuation
 
 
