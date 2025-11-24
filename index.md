@@ -18,7 +18,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 ### Recent News
 
 - 10/2025:
-    - Excited to share that our team (**BIT**) earned 1st place on both the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard) benchmarks!
+    - 🎉 🎉 🎉 Excited to share that our team (**BIT**) earned **1st place** on both the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard) benchmarks!
 
 - 09/2025:
     - My paper was accepted at NeurIPS 2025: *"Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets"*.
