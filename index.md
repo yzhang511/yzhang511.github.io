@@ -13,7 +13,7 @@ Prior to Columbia, I completed my master's in [**Statistical Science**](https://
 
 I am serving as the Vice President of Research for Columbia's BCI Club: [**Neurotech X Columbia**](https://neurotech-x-columbia.github.io/about/). We welcome all members of the Columbia community to join us!
 
-***I enjoy working with students who are passionate about neuroscience and BCI. If you would like to get involved or learn more about my work, feel free to email me anytime.***
+***I enjoy working with people who are passionate about neuroscience and BCI. If you would like to get involved or learn more about my work, feel free to email me anytime.***
 
 ### Recent News
 
