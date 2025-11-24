@@ -17,16 +17,19 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 ### Recent News
 
+- 10/2025:
+    - Excited to share that our team (**BIT**) earned 1st place on both the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard) benchmarks!
+
 - 09/2025:
-    - A paper was accepted at NeurIPS 2025: *"Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets"*.
-    - A paper was accepted by the Neuron journal: *"Exploiting correlations across trials and behavioral sessions to improve neural decoding"*.
+    - My paper was accepted at NeurIPS 2025: *"Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets"*.
+    - My first-authored paper was accepted by the Neuron journal: *"Exploiting correlations across trials and behavioral sessions to improve neural decoding"*.
 
 - 05/2025 - 09/2025:
     - Worked on a summer internship at [**CTRL-Labs at Meta**](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/) on EMG-based neural interfaces. 
     - Gave a talk at [**The Final Frontier of AI Workshop**](https://www.simonsfoundation.org/event/self-supervised-learning-the-final-frontier-of-ai/) hosted by Flatiron Institute in New York about *"Building towards a brain-wide foundation model at single-cell, single-spike resolution"*.
 
 - 04/2025:
-    - A paper was accepted at ICML 2025 as a spotlight: *"Neural Encoding and Decoding at Scale."*
+    - My first-authored paper was accepted at ICML 2025 as a spotlight: *"Neural Encoding and Decoding at Scale."*
 
 - 03/2025:
     - Gave a talk at the [**Building a Foundation Model for the Brain Workshop**](https://neurofm-workshop.github.io/) at COSYNE in Montreal, Canada on *"Building towards a brain-wide foundation model at single-cell, single-spike resolution."*
@@ -38,7 +41,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
     - Gave a talk at the [**Computational Neuroscience Journal Club**](https://pnicompneurojc.github.io/) at Princeton University on *"Towards a universal translator for neural dynamics at single-cell, single-spike resolution."*
 
 - 09/2024:
-    - A paper was accepted at *NeurIPS 2024*: *"Towards a 'universal translator' for neural dynamics at single-cell, single-spike resolution".*
+    - My first-authored paper was accepted at *NeurIPS 2024*: *"Towards a 'universal translator' for neural dynamics at single-cell, single-spike resolution".*
 
 
 ### Publications
@@ -48,7 +51,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
    _Preprint submitted to ICLR 2026_ 
 
 2. Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding <br>
-   Y. Wang*, H. Yu, A. Blau, **Y. Zhang**, The International Brain Laboratory, L. Paninski, C. Hurwitz, M. Whiteway<br>
+   Y. Wang, H. Yu, A. Blau, **Y. Zhang**, The International Brain Laboratory, L. Paninski, C. Hurwitz, M. Whiteway<br>
    _Preprint submitted to ICLR 2026_ [**[PDF]**](https://arxiv.org/pdf/2507.09513)
 
 3. Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets<br>
@@ -56,7 +59,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
    _NeurIPS 2025_ [**[PDF]**](https://arxiv.org/pdf/2510.11924?)
 
 4. Neural Encoding and Decoding at Scale <br>
-   **Y. Zhang**, Y. Wang*, M. Azabou, A. Andre, Z. Wang, H. Lyu, The International Brain Laboratory, E. Dyer, L. Paninski, C. Hurwitz<br>
+   **Y. Zhang**, Y. Wang, M. Azabou, A. Andre, Z. Wang, H. Lyu, The International Brain Laboratory, E. Dyer, L. Paninski, C. Hurwitz<br>
    _ICML 2025 (Spotlight)_ [**[PDF]**](https://arxiv.org/pdf/2504.08201?)
 
 5. TimeInf: Time series data contribution with influence functions <br>
@@ -68,7 +71,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
    _NeurIPS 2024_ [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/934eb45b99eff8f16b5cb8e4d3cb5641-Paper-Conference.pdf)
 
 7. Exploiting correlations across trials and behavioral sessions to improve neural decoding <br>
-   **Y. Zhang**, H. Lyu*, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
+   **Y. Zhang**, H. Lyu, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
    _Neuron (In Press), 2024_ [**[PDF]**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11419137/pdf/nihpp-2024.09.14.613047v1.pdf)
 
 8. Reproducibility of in-vivo electrophysiological measurements in mice <br>
