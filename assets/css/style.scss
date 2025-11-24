@@ -15,29 +15,43 @@ header ul li:has(a.buttons.github),
 }
 
 // Change background to white
-body {
+html, body {
   background-color: white !important;
   background: white !important;
 }
 
-html {
-  background-color: white !important;
-  background: white !important;
-}
-
-// Change sidebar (header) to cornflowerblue
-.wrapper header,
-header {
-  background-color: cornflowerblue !important;
-  background: cornflowerblue !important;
-}
-
-// Also target the wrapper and section backgrounds
 .wrapper {
   background-color: white !important;
+  background: white !important;
 }
 
 section {
   background-color: white !important;
+  background: white !important;
+}
+
+// Change sidebar (header) to cornflowerblue and remove black border
+.wrapper header,
+header {
+  background-color: cornflowerblue !important;
+  background: cornflowerblue !important;
+  border: 1px solid cornflowerblue !important;
+}
+
+// Change all hyperlinks to cornflowerblue
+a {
+  color: cornflowerblue !important;
+}
+
+a:hover {
+  color: #4169E1 !important;
+}
+
+// Keep header links white for contrast
+header a,
+.header a,
+a.header,
+a.name {
+  color: white !important;
 }
 

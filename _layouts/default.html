@@ -8,15 +8,35 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <style>
-      body {
+      html, body {
         background-color: white !important;
+        background: white !important;
       }
-      html {
+      .wrapper {
         background-color: white !important;
+        background: white !important;
+      }
+      section {
+        background-color: white !important;
+        background: white !important;
       }
       .wrapper header,
       header {
         background-color: cornflowerblue !important;
+        background: cornflowerblue !important;
+        border: 1px solid cornflowerblue !important;
+      }
+      a {
+        color: cornflowerblue !important;
+      }
+      a:hover {
+        color: #4169E1 !important;
+      }
+      header a,
+      .header a,
+      a.header,
+      a.name {
+        color: white !important;
       }
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
