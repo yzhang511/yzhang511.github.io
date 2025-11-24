@@ -7,7 +7,7 @@ title: Home
 
 Hello! I am a PhD student at Columbia University in the [**Zuckerman Mind Brain Behavior Institute**](https://zuckermaninstitute.columbia.edu/) and the [**Department of Statistics**](https://stat.columbia.edu/). I was fortunate to be advised by Prof. [**Liam Paninski**](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). 
 
-I develop scalable, data-driven models for neural encoding and decoding. Recently, I have been working on building foundation models to advance brain–computer interface (BCI) applications. My research aims to use computational neuroscience tools to help individuals with paralysis communicate and interact with the world through AI-assisted neuroprosthetics.
+I develop scalable, data-driven models for **neural encoding and decoding**. Recently, I have been working on building **foundation models** to advance brain–computer interface (**BCI**) applications. My research aims to use computational neuroscience tools to help individuals with paralysis communicate and interact with the world through AI-assisted neuroprosthetics.
 
 Prior to Columbia, I completed my master's in [**Statistical Science**](https://stat.duke.edu/) at Duke University, where I had the privilege of working with Prof. [**David Dunson**](https://scholar.google.com/citations?hl=en&user=KwEOawwAAAAJ). Before that, I did my undergrad at UC Davis with a double major in [**Statistics**](https://statistics.ucdavis.edu/) and [**Neurobiology, Physiology and Behavior**](https://www.ucdavis.edu/majors/neurobiology-physiology-and-behavior). 
 
