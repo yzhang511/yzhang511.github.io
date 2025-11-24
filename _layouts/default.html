@@ -38,6 +38,15 @@
       a.name {
         color: white !important;
       }
+      .profile-photo {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+        display: block;
+        margin: 20px auto;
+        border: 3px solid white;
+      }
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -49,6 +58,7 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <img src="{{ '/assets/photo.png' | relative_url }}" alt="Profile Photo" class="profile-photo">
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>

@@ -55,3 +55,14 @@ a.name {
   color: white !important;
 }
 
+// Style profile photo in sidebar
+.profile-photo {
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 20px auto !important;
+  border: 3px solid white !important;
+}
+
