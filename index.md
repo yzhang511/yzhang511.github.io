@@ -4,8 +4,6 @@ title: Home
 ---
 
 <br>
-<br>
-<br>
 
 Hello! I am a PhD student at Columbia University in the [Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu/) and the [Department of Statistics](https://stat.columbia.edu/). I was fortunate to be advised by Prof. [Liam Paninski](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). 
 

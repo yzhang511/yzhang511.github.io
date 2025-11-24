@@ -14,37 +14,37 @@ header ul li:has(a.buttons.github),
   display: none !important;
 }
 
-// Change background to #F5FBFF
+// Change background to white
 html, body {
-  background-color: #F5FBFF !important;
-  background: #F5FBFF !important;
+  background-color: white !important;
+  background: white !important;
 }
 
 .wrapper {
-  background-color: #F5FBFF !important;
-  background: #F5FBFF !important;
+  background-color: white !important;
+  background: white !important;
 }
 
 section {
-  background-color: #F5FBFF !important;
-  background: #F5FBFF !important;
+  background-color: white !important;
+  background: white !important;
 }
 
-// Change sidebar (header) to cornflowerblue and remove black border
+// Change sidebar (header) to #417AB4
 .wrapper header,
 header {
-  background-color: cornflowerblue !important;
-  background: cornflowerblue !important;
-  border: 1px solid cornflowerblue !important;
+  background-color: #417AB4 !important;
+  background: #417AB4 !important;
+  border: 1px solid #417AB4 !important;
 }
 
-// Change all hyperlinks to blue
+// Change all hyperlinks to #417AB4
 a {
-  color: blue !important;
+  color: #417AB4 !important;
 }
 
 a:hover {
-  color: #0000CC !important;
+  color: #2E5A7F !important;
 }
 
 // Keep header links white for contrast
