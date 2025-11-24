@@ -23,9 +23,29 @@
       }
       .wrapper header,
       header {
+        background-image: url('{{ "/assets/banner.png" | relative_url }}') !important;
+        background-size: cover !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
         background-color: #417AB4 !important;
-        background: #417AB4 !important;
         border: 1px solid #417AB4 !important;
+        position: relative !important;
+      }
+      .wrapper header::before,
+      header::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(65, 122, 180, 0.7) !important;
+        z-index: 0;
+      }
+      .wrapper header > *,
+      header > * {
+        position: relative;
+        z-index: 1;
       }
       a {
         color: #417AB4 !important;
