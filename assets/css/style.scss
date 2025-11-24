@@ -14,27 +14,10 @@ header ul li:has(a.buttons.github),
   display: none !important;
 }
 
-// Change background to white with very transparent banner
+// Change background to white
 html, body {
   background-color: white !important;
   background: white !important;
-  position: relative !important;
-  
-  &::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-image: url('/assets/banner.png') !important;
-    background-size: cover !important;
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    opacity: 0.15 !important; // Very transparent
-    z-index: -1;
-    pointer-events: none;
-  }
 }
 
 .wrapper {
