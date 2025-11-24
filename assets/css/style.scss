@@ -14,3 +14,18 @@ header ul li:has(a.buttons.github),
   display: none !important;
 }
 
+// Change background to white
+body {
+  background-color: white !important;
+}
+
+html {
+  background-color: white !important;
+}
+
+// Change sidebar (header) to cornflowerblue
+.wrapper header,
+header {
+  background-color: cornflowerblue !important;
+}
+
