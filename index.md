@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+<br>
+<br>
+<br>
 
 Hello! I am a PhD student at Columbia University in the [Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu/) and the [Department of Statistics](https://stat.columbia.edu/). I was fortunate to be advised by Prof. [Liam Paninski](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). 
 
@@ -21,7 +24,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [Neurote
     - A paper was accepted by the Neuron journal: *"Exploiting correlations across trials and behavioral sessions to improve neural decoding"*.
 
 - May to September 2025:
-    - Worked on a summer internship at [*CTRL-Labs at Meta*](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/) on EMG-based neural interfaces. 
+    - Worked on a summer internship at [CTRL-Labs at Meta](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/) on EMG-based neural interfaces. 
     - Gave a talk at [The Final Frontier of AI Workshop](https://www.simonsfoundation.org/event/self-supervised-learning-the-final-frontier-of-ai/) hosted by Flatiron Institute in New York about *"Building towards a brain-wide foundation model at single-cell, single-spike resolution"*.
 
 - April 2025:
@@ -123,7 +126,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [Neurote
 
 
 ### Teaching
-1. **GR 8201 Statistical Analysis of Neural Data** with Dr. Liam Paninski - Guest lecturer
+1. **GR 8201 Statistical Analysis of Neural Data** with Dr. Liam Paninski - Guest Lecturer
 
     Neural Encoding and Decoding [[Slides]](https://docs.google.com/presentation/d/1S3o4QMO1jnK5inZ8HvbaZQkLQo5bgKl_ygrx7t5MxHw/edit)
 
