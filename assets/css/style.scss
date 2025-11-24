@@ -1,10 +1,16 @@
-// Hide all buttons/links in the sidebar (removes red buttons from left sidebar)
-.sidebar a,
-.sidebar .button,
-.sidebar button,
-.site-nav a,
-.site-nav .button,
-.site-nav button {
+// Hide "View on GitHub" button and other buttons in the sidebar
+// The Dinky theme uses class "buttons github" for the View on GitHub button
+a.buttons.github,
+a.buttons,
+header a.buttons,
+header ul li a.buttons,
+.wrapper header ul li a.buttons {
+  display: none !important;
+}
+
+// Also hide the list item containing the button
+header ul li:has(a.buttons.github),
+.wrapper header ul li:has(a.buttons.github) {
   display: none !important;
 }
 
