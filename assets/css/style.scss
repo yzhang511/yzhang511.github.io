@@ -17,15 +17,27 @@ header ul li:has(a.buttons.github),
 // Change background to white
 body {
   background-color: white !important;
+  background: white !important;
 }
 
 html {
   background-color: white !important;
+  background: white !important;
 }
 
 // Change sidebar (header) to cornflowerblue
 .wrapper header,
 header {
   background-color: cornflowerblue !important;
+  background: cornflowerblue !important;
+}
+
+// Also target the wrapper and section backgrounds
+.wrapper {
+  background-color: white !important;
+}
+
+section {
+  background-color: white !important;
 }
 
