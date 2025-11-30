@@ -17,12 +17,14 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 ### Recent News
 
+- 11/2025:
+    - 🎉 My first-authored paper was published by the journal *Neuron*: ["Exploiting correlations across trials and behavioral sessions to improve neural decoding"](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes).
+
 - 10/2025:
     - 🎉 Excited to share that our team (**BIT**) earned **1st place** on both the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard) benchmarks!
 
 - 09/2025:
     - 🎉 Our paper was accepted at NeurIPS 2025: *"Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets"*.
-    - 🎉 My first-authored paper was accepted by the Neuron journal: *"Exploiting correlations across trials and behavioral sessions to improve neural decoding"*.
 
 - 05/2025 - 09/2025:
     - Worked on a summer internship at [**CTRL-Labs at Meta**](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/) on EMG-based neural interfaces. 
