@@ -18,7 +18,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 ### Recent News
 
 - 11/2025:
-    - 🎉 My first-authored paper was published by the journal *Neuron*: ["Exploiting correlations across trials and behavioral sessions to improve neural decoding"](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes).
+    - 🎉 My first-authored paper was published by the journal *Neuron*: [**"Exploiting correlations across trials and behavioral sessions to improve neural decoding"**](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes).
 
 - 10/2025:
     - 🎉 Excited to share that our team (**BIT**) earned **1st place** on both the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard) benchmarks!
