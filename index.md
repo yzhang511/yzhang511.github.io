@@ -17,11 +17,17 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 ### Recent News
 
+- 12/2025:
+    - Gave a talk at the [**UC Davis Neuroprosthetics Lab**](https://neuroprosthetics.science/) Journal Club on *"Building scalable and generalizable models for neural encoding and decoding."*
+
 - 11/2025:
+    - Gave a talk at the [**Chang Lab**](https://changlab.ucsf.edu/) on *"Building scalable and generalizable models for neural encoding and decoding."*
     - 🎉 My first-authored paper was published by the journal *Neuron*: [**"Exploiting correlations across trials and behavioral sessions to improve neural decoding"**](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes).
+    - Gave a talk at the [**Stanford Neural Prosthetics Translational Lab**](https://nptl.stanford.edu/) on *"Building scalable and generalizable models for neural encoding and decoding."*
+    
 
 - 10/2025:
-    - 🎉 Excited to share that our team (**BIT**) earned **1st place** on both the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard) benchmarks!
+    - 🚀 Excited to share that our team (**BIT**) earned **1st place** on both the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard) benchmarks!
 
 - 09/2025:
     - 🎉 Our paper was accepted at NeurIPS 2025: *"Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets"*.
