@@ -17,7 +17,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 ### Recent News
 
-- 1/2025:
+- 1/2026:
     🚀 Excited to share that our team (**BIT**) earned **1st place** on the [**Brain-to-Text 2024**] benchmark (https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) and **3rd place** (out of 463 teams) on [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard)!
 
 - 12/2025:
