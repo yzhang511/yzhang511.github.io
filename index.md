@@ -53,14 +53,14 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 ### Publications
 
-$^†$ Equal contribution
+* Equal contribution
 
 1. Decoding inner speech with an end-to-end brain-to-text neural interface<br>
-   **Y. Zhang** $^†$, L. He $^†$, C. Fan, T. Liu, H. Yu, T. Le, J. Li, S. Linderman, L. Duncker, F. Willett, N. Mesgaragni, L. Paninski<br>
+   **Y. Zhang** *, L. He *, C. Fan, T. Liu, H. Yu, T. Le, J. Li, S. Linderman, L. Duncker, F. Willett, N. Mesgaragni, L. Paninski<br>
    _Preprint_ [**[PDF]**](https://arxiv.org/pdf/2511.21740)
 
 2. Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding <br>
-   Y. Wang $^†$, H. Yu $^†$, A. Blau, **Y. Zhang**, The International Brain Laboratory, L. Paninski, C. Hurwitz, M. Whiteway<br>
+   Y. Wang *, H. Yu *, A. Blau, **Y. Zhang**, The International Brain Laboratory, L. Paninski, C. Hurwitz, M. Whiteway<br>
    _Preprint_ [**[PDF]**](https://arxiv.org/pdf/2507.09513)
 
 3. Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets<br>
@@ -68,11 +68,11 @@ $^†$ Equal contribution
    _NeurIPS 2025_ [**[PDF]**](https://arxiv.org/pdf/2510.11924?)
 
 4. Neural Encoding and Decoding at Scale <br>
-   **Y. Zhang** $^†$, Y. Wang $^†$, M. Azabou, A. Andre, Z. Wang, H. Lyu, The International Brain Laboratory, E. Dyer, L. Paninski, C. Hurwitz<br>
+   **Y. Zhang** *, Y. Wang *, M. Azabou, A. Andre, Z. Wang, H. Lyu, The International Brain Laboratory, E. Dyer, L. Paninski, C. Hurwitz<br>
    _ICML 2025 (Spotlight)_ [**[PDF]**](https://arxiv.org/pdf/2504.08201?)
 
 5. TimeInf: Time series data contribution with influence functions <br>
-   **Y. Zhang** $^†$, J. Shen $^†$, X. Xiong $^†$, Y. Kwon<br>
+   **Y. Zhang** *, J. Shen *, X. Xiong *, Y. Kwon<br>
    _ICLR 2025_ [**[PDF]**](https://arxiv.org/pdf/2407.15247)
 
 6. Towards a universal translator for neural dynamics at single-cell, single-spike resolution <br>
@@ -80,7 +80,7 @@ $^†$ Equal contribution
    _NeurIPS 2024_ [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/934eb45b99eff8f16b5cb8e4d3cb5641-Paper-Conference.pdf)
 
 7. Exploiting correlations across trials and behavioral sessions to improve neural decoding <br>
-   **Y. Zhang** $^†$, H. Lyu $^†$, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
+   **Y. Zhang** *, H. Lyu *, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
    _Neuron (In Press), 2024_ [**[PDF]**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11419137/pdf/nihpp-2024.09.14.613047v1.pdf)
 
 8. Reproducibility of in-vivo electrophysiological measurements in mice <br>
@@ -96,7 +96,7 @@ $^†$ Equal contribution
     _Imaging Neuroscience 2024_ [**[PDF]**](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00303/124452)
 
 11. Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes <br>
-    **Y. Zhang** $^†$, T. He $^†$, J. Boussard, C. Windolf, O. Winter, E. Trautmann, N. Roth, H. Barrell, M. Churchland, N. Steinmetz, E. Varol, C. Hurwitz, L. Paninski <br>
+    **Y. Zhang** *, T. He *, J. Boussard, C. Windolf, O. Winter, E. Trautmann, N. Roth, H. Barrell, M. Churchland, N. Steinmetz, E. Varol, C. Hurwitz, L. Paninski <br>
     _NeurIPS 2023 (Spotlight)_ [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f499387f191d6be56e68966181095878-Paper-Conference.pdf)
 
 12. Brain-Wide Representations of Prior Information in Mouse Decision-Making <br>
