@@ -42,7 +42,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
     - Gave a talk at the [**Building a Foundation Model for the Brain Workshop**](https://neurofm-workshop.github.io/) at COSYNE in Montreal, Canada on *"Building towards a brain-wide foundation model at single-cell, single-spike resolution."*
 
 - 11/2024:
-    - Gave a talk at the [**Computational Machinery of Cognition Journal Club**](https://shervinsafavi.github.io/cmclab/) at the University of Tübingen, Tübingen, Germany on *"Neural Encoding and Decoding at Scale."*
+    - Gave a talk at the [**Computational Machinery of Cognition Journal Club**](https://shervinsafavi.github.io/cmclab/) at the University of Tübingen in Germany on *"Neural Encoding and Decoding at Scale."*
 
 - 10/2024:
     - Gave a talk at the [**Computational Neuroscience Journal Club**](https://pnicompneurojc.github.io/) at Princeton University on *"Towards a universal translator for neural dynamics at single-cell, single-spike resolution."*
@@ -69,37 +69,37 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
    **Y. Zhang**, Y. Wang, M. Azabou, A. Andre, Z. Wang, H. Lyu, The International Brain Laboratory, E. Dyer, L. Paninski, C. Hurwitz<br>
    _ICML 2025 (Spotlight)_ [**[PDF]**](https://arxiv.org/pdf/2504.08201?)
 
-5. TimeInf: Time series data contribution with influence functions <br>
+5. Brain-Wide Representations of Prior Information in Mouse Decision-Making <br>
+    C. Findling, F. Hubert, International Brain Laboratory, L. Acerbi, B. Benson, J. Benson, **Y. Zhang**, et al. <br>
+    _Nature 2025_ [**[PDF]**](https://www.nature.com/articles/s41586-025-09226-1)
+
+6. Exploiting correlations across trials and behavioral sessions to improve neural decoding <br>
+   **Y. Zhang**, H. Lyu, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
+   _Neuron, 2025_ [**[PDF]**](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes)
+
+7. TimeInf: Time series data contribution with influence functions <br>
    **Y. Zhang**, J. Shen, X. Xiong, Y. Kwon<br>
    _ICLR 2025_ [**[PDF]**](https://arxiv.org/pdf/2407.15247)
 
-6. Towards a universal translator for neural dynamics at single-cell, single-spike resolution <br>
+8. Towards a universal translator for neural dynamics at single-cell, single-spike resolution <br>
    **Y. Zhang**, Y. Wang, D. Jiménez Benetó, Z. Wang, M. Azabou, B. Richards, O. Winter, The International Brain Laboratory, E. Dyer, L. Paninski, C. Hurwitz <br>
    _NeurIPS 2024_ [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/934eb45b99eff8f16b5cb8e4d3cb5641-Paper-Conference.pdf)
 
-7. Exploiting correlations across trials and behavioral sessions to improve neural decoding <br>
-   **Y. Zhang**, H. Lyu, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
-   _Neuron (In Press), 2024_ [**[PDF]**](https://pmc.ncbi.nlm.nih.gov/articles/PMC11419137/pdf/nihpp-2024.09.14.613047v1.pdf)
-
-8. Reproducibility of in-vivo electrophysiological measurements in mice <br>
+9. Reproducibility of in-vivo electrophysiological measurements in mice <br>
    International Brain Laboratory, K. Banga, J. Benson, J. Bhagat, D. Biderman, D. Birman, **Y. Zhang**, et al. <br>
    _eLife 2024_ [**[PDF]**](https://elifesciences.org/articles/100840)
 
-9. Rhesus infant nervous temperament predicts peri-adolescent central amygdala metabolism & behavioral inhibition <br>
+10. Rhesus infant nervous temperament predicts peri-adolescent central amygdala metabolism & behavioral inhibition <br>
    D. Holley, L. Campos, C. Drzewiecki, **Y. Zhang**, J. Capitanio, A. Fox <br>
    _Nature Translational Psychiatry 2024_ [**[PDF]**](https://www.nature.com/articles/s41398-024-02858-3)
 
-10. Motion-invariant variational auto-encoding of brain structural connectomes <br>
+11. Motion-invariant variational auto-encoding of brain structural connectomes <br>
     **Y. Zhang**, M. Liu, Z. Zhang, D. Dunson <br>
     _Imaging Neuroscience 2024_ [**[PDF]**](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00303/124452)
 
-11. Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes <br>
+12. Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes <br>
     **Y. Zhang**, T. He, J. Boussard, C. Windolf, O. Winter, E. Trautmann, N. Roth, H. Barrell, M. Churchland, N. Steinmetz, E. Varol, C. Hurwitz, L. Paninski <br>
     _NeurIPS 2023 (Spotlight)_ [**[PDF]**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f499387f191d6be56e68966181095878-Paper-Conference.pdf)
-
-12. Brain-Wide Representations of Prior Information in Mouse Decision-Making <br>
-    C. Findling, F. Hubert, International Brain Laboratory, L. Acerbi, B. Benson, J. Benson, **Y. Zhang**, et al. <br>
-    _Nature 2023_ [**[PDF]**](https://www.nature.com/articles/s41586-025-09226-1)
 
 13. Predicting rare outcomes in abdominal wall reconstruction using image-based deep learning models <br> 
     S. A. Ayuso, S. A. Elhage, **Y. Zhang**, B. Aladegbami, K. Gersin, J. Fischer, V. Augenstein, P. Colavita, B. Heniford <br>
