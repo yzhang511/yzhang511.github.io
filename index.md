@@ -69,13 +69,13 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
    **Y. Zhang**, Y. Wang, M. Azabou, A. Andre, Z. Wang, H. Lyu, The International Brain Laboratory, E. Dyer, L. Paninski, C. Hurwitz<br>
    _ICML 2025 (Spotlight)_ [**[PDF]**](https://arxiv.org/pdf/2504.08201?)
 
-5. Brain-Wide Representations of Prior Information in Mouse Decision-Making <br>
+5. Exploiting correlations across trials and behavioral sessions to improve neural decoding <br>
+   **Y. Zhang**, H. Lyu, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
+   _Neuron 2025_ [**[PDF]**](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes)
+
+6. Brain-Wide Representations of Prior Information in Mouse Decision-Making <br>
     C. Findling, F. Hubert, International Brain Laboratory, L. Acerbi, B. Benson, J. Benson, **Y. Zhang**, et al. <br>
     _Nature 2025_ [**[PDF]**](https://www.nature.com/articles/s41586-025-09226-1)
-
-6. Exploiting correlations across trials and behavioral sessions to improve neural decoding <br>
-   **Y. Zhang**, H. Lyu, C. Hurwitz, S. Wang, C. Findling, F. Hubert, A. Pouget, International Brain Laboratory, E. Varol, L. Paninski <br>
-   _Neuron, 2025_ [**[PDF]**](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes)
 
 7. TimeInf: Time series data contribution with influence functions <br>
    **Y. Zhang**, J. Shen, X. Xiong, Y. Kwon<br>
