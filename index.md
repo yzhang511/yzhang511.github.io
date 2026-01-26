@@ -18,6 +18,8 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 ### Recent News
 
 - 1/2026:
+    - 🎉 My first-authored paper was accepted at ICLR 2026: *"Decoding inner speech with an end-to-end brain-to-text neural interface."*
+    - 🎉 Our paper was accepted at ICLR 2026: *"Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding"*.
     - 🚀 Excited to share that our team (**BIT**) earned **1st place** on the [**Brain-to-Text 2024**](https://eval.ai/web/challenges/challenge-page/2099/leaderboard/4944) benchmark and **3rd place** (out of 463 teams) on [**Brain-to-Text 2025**](https://www.kaggle.com/competitions/brain-to-text-25/leaderboard)!
 
 - 12/2025:
@@ -55,11 +57,11 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 1. Decoding inner speech with an end-to-end brain-to-text neural interface<br>
    **Y. Zhang**, L. He, C. Fan, T. Liu, H. Yu, T. Le, J. Li, S. Linderman, L. Duncker, F. Willett, N. Mesgaragni, L. Paninski<br>
-   _Preprint_ [**[PDF]**](https://arxiv.org/pdf/2511.21740)
+   _ICLR 2026_ [**[PDF]**](https://arxiv.org/pdf/2511.21740)
 
 2. Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding <br>
    Y. Wang, H. Yu, A. Blau, **Y. Zhang**, The International Brain Laboratory, L. Paninski, C. Hurwitz, M. Whiteway<br>
-   _Preprint_ [**[PDF]**](https://arxiv.org/pdf/2507.09513)
+   _ICLR 2026_ [**[PDF]**](https://arxiv.org/pdf/2507.09513)
 
 3. Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets<br>
    J. Xia, **Y. Zhang**, S. Wang, G. Allen, L. Pansinki, C. Hurwitz, K. Miller<br>
