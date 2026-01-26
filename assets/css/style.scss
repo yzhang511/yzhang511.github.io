@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Increase main content font size (right side)
+.wrapper section {
+  font-size: 20px;
+  line-height: 1.65;
+}
+
+.wrapper section p,
+.wrapper section li {
+  font-size: 20px;
+}
+
