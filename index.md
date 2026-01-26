@@ -28,7 +28,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [Neurote
 - 11/2025:
     - Gave a talk at the [Chang Lab](https://changlab.ucsf.edu/) on *"Building scalable and generalizable models for neural encoding and decoding."*
     - 🎉 My first-authored paper was published by the journal *Neuron*: ["Exploiting correlations across trials and behavioral sessions to improve neural decoding"](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes).
-    - Gave a talk at the [Linderman Lab](https://lindermanlab.github.io/) and the [**Stanford Neural Prosthetics Translational Lab**](https://nptl.stanford.edu/) on *"Building scalable and generalizable models for neural encoding and decoding."*
+    - Gave a talk at the [Linderman Lab](https://lindermanlab.github.io/) and the [Stanford Neural Prosthetics Translational Lab](https://nptl.stanford.edu/) on *"Building scalable and generalizable models for neural encoding and decoding."*
     
 - 09/2025:
     - 🎉 Our paper was accepted at NeurIPS 2025: *"Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets"*.
@@ -109,7 +109,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [Neurote
 
 
 ### Teaching
-1. **GR 8201 Statistical Analysis of Neural Data** with Prof. Liam Paninski - Guest Lecturer
+1. *GR 8201 Statistical Analysis of Neural Data* with Prof. Liam Paninski - Guest Lecturer
     - Neural Encoding and Decoding [[Slides]](https://docs.google.com/presentation/d/1S3o4QMO1jnK5inZ8HvbaZQkLQo5bgKl_ygrx7t5MxHw/edit)
     - Self-Supervised Learning for Neurofoundation Models [[Slides]](https://docs.google.com/presentation/d/1kJvMGF2kQgXgEfwaAoG-vnMTNWcOWMPYYkwmAo93Qhc/edit?usp=sharing)
 
