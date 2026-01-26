@@ -16,10 +16,10 @@
       .wrapper {
         background-color: white !important;
         background: white !important;
-      }
-      section {
-        background-color: white !important;
-        background: white !important;
+        max-width: none !important;
+        width: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
       }
       header {
         background-image: url('{{ "/assets/banner.png" | relative_url }}') !important;
@@ -27,31 +27,41 @@
         background-position: center !important;
         background-repeat: no-repeat !important;
         background-color: #417AB4 !important;
-        border: 1px solid #417AB4 !important;
+        border: none !important;
         position: fixed !important;
         top: 0;
         left: 0;
         bottom: 0;
         width: 270px;
         overflow-y: auto;
+        padding: 40px 20px !important;
+        box-sizing: border-box;
       }
       section {
         background-color: white !important;
         background: white !important;
-        margin-left: 310px;
+        margin-left: 270px !important;
+        max-width: 800px !important;
+        padding: 40px !important;
+        width: auto !important;
       }
       footer {
-        margin-left: 310px;
+        margin-left: 270px !important;
+        padding: 20px 40px !important;
+        max-width: 800px !important;
       }
-      @media screen and (max-width: 768px) {
-        .wrapper header,
+      @media screen and (max-width: 1000px) {
         header {
           position: relative !important;
           width: auto;
           height: auto;
+          bottom: auto;
+          padding: 20px !important;
         }
         section, footer {
-          margin-left: 0;
+          margin-left: 0 !important;
+          max-width: 100% !important;
+          padding: 20px !important;
         }
       }
       .wrapper header::before,
