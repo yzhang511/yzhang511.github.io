@@ -5,6 +5,8 @@ title: Home
 
 <br>
 
+<img src="/assets/photo.png" alt="Profile photo" style="width: 180px; border-radius: 50%; margin-bottom: 20px;">
+
 Hello! I am a PhD student at Columbia University in the [**Zuckerman Mind Brain Behavior Institute**](https://zuckermaninstitute.columbia.edu/) and the [**Department of Statistics**](https://stat.columbia.edu/). I was fortunate to be advised by Prof. [**Liam Paninski**](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). 
 
 I develop scalable, data-driven models for **neural encoding** and **decoding**. Recently, I have been working on building **foundation models** to advance brain–computer interface (**BCI**) applications. My research aims to use computational neuroscience tools to help individuals with paralysis communicate and interact with the world through AI-assisted neuroprosthetics.
