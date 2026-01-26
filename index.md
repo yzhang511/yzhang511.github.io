@@ -27,7 +27,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [Neurote
 
 - 11/2025:
     - Gave a talk at the [Chang Lab](https://changlab.ucsf.edu/) on *"Building scalable and generalizable models for neural encoding and decoding."*
-    - 🎉 My first-authored paper was published by the journal *Neuron*: ["Exploiting correlations across trials and behavioral sessions to improve neural decoding"](https://www.cell.com/neuron/fulltext/S0896-6273(25)00807-4?rss=yes).
+    - 🎉 My first-authored paper was published by the *Neuron* journal: *"Exploiting correlations across trials and behavioral sessions to improve neural decoding"*.
     - Gave a talk at the [Linderman Lab](https://lindermanlab.github.io/) and the [Stanford Neural Prosthetics Translational Lab](https://nptl.stanford.edu/) on *"Building scalable and generalizable models for neural encoding and decoding."*
     
 - 09/2025:
