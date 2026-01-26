@@ -18,6 +18,14 @@ strong, b {
   font-weight: bold !important;
 }
 
+// Restore default ordered/unordered list styling
+ol, ul {
+  list-style: initial !important;
+  list-style-position: outside !important;
+  padding-left: 1.5em !important;
+  margin-left: 0 !important;
+}
+
 header {
   width: 220px !important;
   float: left !important;
