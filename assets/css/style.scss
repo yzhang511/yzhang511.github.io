@@ -1,54 +1,19 @@
-// Hide "View on GitHub" button and other buttons in the sidebar
-// The Dinky theme uses class "buttons github" for the View on GitHub button
-a.buttons.github,
-a.buttons,
-header a.buttons,
-header ul li a.buttons,
-.wrapper header ul li a.buttons {
-  display: none !important;
-}
+@import "{{ site.theme }}";
 
-// Also hide the list item containing the button
-header ul li:has(a.buttons.github),
-.wrapper header ul li:has(a.buttons.github) {
-  display: none !important;
-}
-
-// Change background to white
-html, body {
-  background-color: white !important;
-  background: white !important;
-}
-
-.wrapper {
-  background-color: white !important;
-  background: white !important;
-}
-
-section {
-  background-color: white !important;
-  background: white !important;
-}
-
-// Change sidebar (header) to use banner as background
-.wrapper header,
+// Custom styles for Minimal theme
 header {
+  width: 220px !important;
+  float: left !important;
+  position: fixed !important;
   background-image: url('/assets/banner.png') !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
-  background-color: #417AB4 !important; // Fallback color
-  border: none !important;
-  position: fixed !important;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  width: 220px !important;
-  overflow-y: auto;
-  padding: 40px 15px !important;
-  box-sizing: border-box;
+  padding: 40px 20px !important;
+  height: 100vh !important;
+  box-sizing: border-box !important;
+  border-right: 1px solid #e5e5e5 !important;
   
-  // Add overlay to ensure text readability
   &::before {
     content: '';
     position: absolute;
@@ -56,84 +21,77 @@ header {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(65, 122, 180, 0.7) !important; // Semi-transparent overlay
+    background-color: rgba(65, 122, 180, 0.7) !important;
     z-index: 0;
   }
   
-  // Ensure content is above overlay
   > * {
     position: relative;
     z-index: 1;
+    color: white !important;
+  }
+
+  a {
+    color: white !important;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 
 section {
-  background-color: white !important;
-  background: white !important;
-  margin-left: 220px !important;
-  max-width: 800px !important;
-  padding: 40px 40px 40px 20px !important;
   width: auto !important;
-}
-
-footer {
-  display: none !important;
+  max-width: 800px !important;
+  float: none !important;
+  margin-left: 240px !important;
+  padding: 40px !important;
 }
 
 .wrapper {
-  background-color: white !important;
-  background: white !important;
-  max-width: none !important;
   width: 100% !important;
+  max-width: none !important;
   margin: 0 !important;
-  padding: 0 !important;
-  display: flex !important;
-  justify-content: flex-start !important;
 }
 
-@media screen and (max-width: 1000px) {
-  header {
-    position: relative !important;
-    width: auto !important;
-    height: auto !important;
-    bottom: auto !important;
-    padding: 20px !important;
-  }
-  section {
-    margin-left: 0 !important;
-    max-width: 100% !important;
-    padding: 20px !important;
-  }
-  .wrapper {
-    display: block !important;
-  }
-}
-
-// Change all hyperlinks to #417AB4
-a {
-  color: #417AB4 !important;
-}
-
-a:hover {
-  color: #2E5A7F !important;
-}
-
-// Keep header links white for contrast
-header a,
-.header a,
-a.header,
-a.name {
-  color: white !important;
-}
-
-// Style profile photo in sidebar
 .profile-photo {
   width: 150px !important;
   height: 150px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
   display: block !important;
-  margin: 20px auto !important;
+  margin: 0 auto 20px !important;
   border: 3px solid white !important;
 }
 
+.contact-info {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 20px 0 0 0 !important;
+  
+  li {
+    margin-bottom: 10px !important;
+    display: flex !important;
+    align-items: center !important;
+    font-size: 14px !important;
+    
+    i {
+      width: 20px !important;
+      margin-right: 10px !important;
+      text-align: center !important;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    width: 100% !important;
+    position: relative !important;
+    height: auto !important;
+    float: none !important;
+  }
+  section {
+    margin-left: 0 !important;
+    padding: 20px !important;
+  }
+}
