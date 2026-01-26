@@ -117,7 +117,7 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 - [**Tianxiao He**](https://tianxiaohe.netlify.app/), PhD, Computer Science and Engineering, NYU
 - [**Hanrui Lyu**](https://www.linkedin.com/in/hanrui-lyu-336127227/), PhD, Statistics and Data Science, Northwestern
-- [**Jingyan Shen**](https://www.linkedin.com/in/jyshen/) (with Dr. [Yongchan Kwon](https://scholar.google.com/citations?user=PElI4ikAAAAJ&hl=ko)), PhD, Computer Science, NYU
+- [**Jingyan Shen**](https://www.linkedin.com/in/jyshen/) (with Dr. [**Yongchan Kwon**](https://scholar.google.com/citations?user=PElI4ikAAAAJ&hl=ko)), PhD, Computer Science, NYU
 - [**Yanchen Wang**](https://ppwangyc.github.io/), Research Assistant, Columbia
 - [**Donato M. Jimnez-Benetó**](https://www.linkedin.com/in/donato-manuel-jimenez-beneto/?originalSubdomain=es), PhD, EPFL
 - [**Zixuan Wang**](https://www.linkedin.com/in/zixuan-wang-472984356/?originalSubdomain=uk), Master's, Cambridge
