@@ -38,8 +38,15 @@ header {
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-color: #417AB4 !important; // Fallback color
-  border: 1px solid #417AB4 !important;
-  position: relative !important;
+  border: none !important;
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 220px !important;
+  overflow-y: auto;
+  padding: 40px 15px !important;
+  box-sizing: border-box;
   
   // Add overlay to ensure text readability
   &::before {
@@ -57,6 +64,48 @@ header {
   > * {
     position: relative;
     z-index: 1;
+  }
+}
+
+section {
+  background-color: white !important;
+  background: white !important;
+  margin-left: 220px !important;
+  max-width: 800px !important;
+  padding: 40px 40px 40px 0px !important;
+  width: auto !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.wrapper {
+  background-color: white !important;
+  background: white !important;
+  max-width: none !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  justify-content: flex-start !important;
+}
+
+@media screen and (max-width: 1000px) {
+  header {
+    position: relative !important;
+    width: auto !important;
+    height: auto !important;
+    bottom: auto !important;
+    padding: 20px !important;
+  }
+  section {
+    margin-left: 0 !important;
+    max-width: 100% !important;
+    padding: 20px !important;
+  }
+  .wrapper {
+    display: block !important;
   }
 }
 
