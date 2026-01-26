@@ -1,6 +1,11 @@
 @import "{{ site.theme }}";
 
 // Custom styles for Minimal theme
+body {
+  font-size: 18px !important;
+  line-height: 1.6 !important;
+}
+
 header {
   width: 220px !important;
   float: left !important;
@@ -34,6 +39,7 @@ header {
   a {
     color: white !important;
     text-decoration: none;
+    font-size: 16px !important;
     &:hover {
       text-decoration: underline;
     }
