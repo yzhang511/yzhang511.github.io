@@ -116,7 +116,6 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
 
 ### Mentorship
 *Co-mentored with Prof. Liam Paninski unless otherwise noted*
-
 - [**Tianxiao He**](https://tianxiaohe.netlify.app/), PhD, Computer Science and Engineering, NYU
 - [**Hanrui Lyu**](https://www.linkedin.com/in/hanrui-lyu-336127227/), PhD, Statistics and Data Science, Northwestern
 - [**Jingyan Shen**](https://www.linkedin.com/in/jyshen/) (with Dr. [**Yongchan Kwon**](https://scholar.google.com/citations?user=PElI4ikAAAAJ&hl=ko)), PhD, Computer Science, NYU
