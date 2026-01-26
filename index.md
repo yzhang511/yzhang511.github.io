@@ -106,20 +106,20 @@ I am serving as the Vice President of Research for Columbia's BCI Club: [**Neuro
     _Surgery (Elsevier) 2023_ [**[PDF]**](https://www.sciencedirect.com/science/article/pii/S0039606022006845)
 
 
-### Mentorship
-*Co-mentored with Prof. Liam Paninski unless otherwise noted*
-
-- [Tianxiao He](https://tianxiaohe.netlify.app/), PhD, Computer Science and Engineering, NYU
-- [Hanrui Lyu](https://www.linkedin.com/in/hanrui-lyu-336127227/), PhD, Statistics and Data Science, Northwestern
-- [Jingyan Shen](https://www.linkedin.com/in/jyshen/) (with Dr. [Yongchan Kwon](https://scholar.google.com/citations?user=PElI4ikAAAAJ&hl=ko)), PhD, Computer Science, NYU
-- [Yanchen Wang](https://ppwangyc.github.io/), Research Assistant, Columbia
-- [Donato M. Jimnez-Benetó](https://www.linkedin.com/in/donato-manuel-jimenez-beneto/?originalSubdomain=es), PhD, EPFL
-- [Zixuan Wang](https://www.linkedin.com/in/zixuan-wang-472984356/?originalSubdomain=uk), Master's, Cambridge
-- Xuanyi Wu, Undergraduate, Columbia
-- [Mia Dai](https://www.linkedin.com/in/xinming-dai/), PhD, Statistics, Columbia
-
-
 ### Teaching
 1. **GR 8201 Statistical Analysis of Neural Data** with Prof. Liam Paninski - Guest Lecturer
     - Neural Encoding and Decoding [**[Slides]**](https://docs.google.com/presentation/d/1S3o4QMO1jnK5inZ8HvbaZQkLQo5bgKl_ygrx7t5MxHw/edit)
     - Self-Supervised Learning for Neurofoundation Models [**[Slides]**](https://docs.google.com/presentation/d/1kJvMGF2kQgXgEfwaAoG-vnMTNWcOWMPYYkwmAo93Qhc/edit?usp=sharing)
+
+
+### Mentorship
+*Co-mentored with Prof. Liam Paninski unless otherwise noted*
+
+- [**Tianxiao He**](https://tianxiaohe.netlify.app/), PhD, Computer Science and Engineering, NYU
+- [**Hanrui Lyu**](https://www.linkedin.com/in/hanrui-lyu-336127227/), PhD, Statistics and Data Science, Northwestern
+- [**Jingyan Shen**](https://www.linkedin.com/in/jyshen/) (with Dr. [Yongchan Kwon](https://scholar.google.com/citations?user=PElI4ikAAAAJ&hl=ko)), PhD, Computer Science, NYU
+- [**Yanchen Wang**](https://ppwangyc.github.io/), Research Assistant, Columbia
+- [**Donato M. Jimnez-Benetó**](https://www.linkedin.com/in/donato-manuel-jimenez-beneto/?originalSubdomain=es), PhD, EPFL
+- [**Zixuan Wang**](https://www.linkedin.com/in/zixuan-wang-472984356/?originalSubdomain=uk), Master's, Cambridge
+- Xuanyi Wu, Undergraduate, Columbia
+- [**Mia Dai**](https://www.linkedin.com/in/xinming-dai/), PhD, Statistics, Columbia
