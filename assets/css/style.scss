@@ -2,8 +2,17 @@
 
 // Custom styles for Minimal theme
 body {
-  font-size: 18px !important;
+  font-size: 20px !important;
   line-height: 1.6 !important;
+}
+
+p, li, section, div {
+  font-size: 20px !important;
+}
+
+strong, b {
+  color: royalblue !important;
+  font-weight: bold !important;
 }
 
 header {
@@ -39,15 +48,11 @@ header {
   a {
     color: white !important;
     text-decoration: none;
-    font-size: 16px !important;
+    font-size: 18px !important;
     &:hover {
       text-decoration: underline;
     }
   }
-}
-
-strong, b {
-  color: royalblue !important;
 }
 
 section {
@@ -83,7 +88,7 @@ section {
     margin-bottom: 10px !important;
     display: flex !important;
     align-items: center !important;
-    font-size: 14px !important;
+    font-size: 16px !important;
     
     i {
       width: 20px !important;
