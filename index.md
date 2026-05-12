@@ -5,9 +5,7 @@ title: Home
 
 <br>
 
-Hello! I am a postdoctoral researcher at Stanford University, affiliated with the [Neural Prosthetics Translational Lab](https://nptl.stanford.edu/) and the [Linderman Lab](https://lindermanlab.github.io/). My research focuses on scalable, data-driven models for neural encoding and decoding, with recent work on foundation models for brain–computer interfaces (BCIs). I aim to develop AI-assisted neuroprosthetics that help individuals with paralysis communicate and interact with the world.
-
-I received my PhD in Statistics from Columbia University, where I was advised by Prof. [Liam Paninski](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). 
+Hello! I am a postdoctoral researcher at Stanford University, affiliated with the [Neural Prosthetics Translational Lab](https://nptl.stanford.edu/) and the [Linderman Lab](https://lindermanlab.github.io/). I received my Ph.D. from Columbia University and was advised by Dr. [Liam Paninski](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). My research focuses on scalable, data-driven models for neural encoding and decoding, with recent work on foundation models for brain–computer interfaces (BCIs). I aim to develop AI-assisted neuroprosthetics that help individuals with paralysis communicate and interact with the world.
 
 *I enjoy working with people who are passionate about neuroscience and BCI. If you would like to get involved or learn more about my work, feel free to email me anytime.*
 
