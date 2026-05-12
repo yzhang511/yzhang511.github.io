@@ -5,17 +5,17 @@ title: Home
 
 <br>
 
-Hello! I am a PhD student at Columbia University in the [Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu/) and the [Department of Statistics](https://stat.columbia.edu/). I was fortunate to be advised by Prof. [Liam Paninski](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). 
+Hello! I am a postdoctoral researcher at Stanford University, affiliated with the [Neural Prosthetics Translational Lab](https://nptl.stanford.edu/) and the [Linderman Lab](https://lindermanlab.github.io/). My research focuses on scalable, data-driven models for neural encoding and decoding, with recent work on foundation models for brain–computer interfaces (BCIs). I aim to develop AI-assisted neuroprosthetics that help individuals with paralysis communicate and interact with the world.
 
-I develop scalable, data-driven models for neural encoding and decoding. Recently, I have been working on building foundation models to advance brain–computer interface (BCI) applications. My research aims to use computational neuroscience tools to help individuals with paralysis communicate and interact with the world through AI-assisted neuroprosthetics.
-
-Prior to Columbia, I completed my master's in [Statistical Science](https://stat.duke.edu/) at Duke University, where I had the privilege of working with Prof. [David Dunson](https://scholar.google.com/citations?hl=en&user=KwEOawwAAAAJ). Before that, I did my undergrad at UC Davis with a double major in [Statistics](https://statistics.ucdavis.edu/) and [Neurobiology, Physiology and Behavior](https://www.ucdavis.edu/majors/neurobiology-physiology-and-behavior). 
-
-I am serving as the Vice President of Research for Columbia's BCI Club: [Neurotech X Columbia](https://neurotech-x-columbia.github.io/about/). We welcome all members of the Columbia community to join us!
+I received my PhD in Statistics from Columbia University, where I was advised by Prof. [Liam Paninski](https://scholar.google.com/citations?user=FayXlTYAAAAJ&hl=en). 
 
 *I enjoy working with people who are passionate about neuroscience and BCI. If you would like to get involved or learn more about my work, feel free to email me anytime.*
 
 ### Recent News
+
+- 5/2026:
+    - 🎓 Graduated with a PhD in Statistics from Columbia University.
+    - Excited to join Stanford as a postdoctoral researcher in the [Neural Prosthetics Translational Lab](https://nptl.stanford.edu/) and the [Linderman Lab](https://lindermanlab.github.io/). 
 
 - 1/2026:
     - 🎉 My first-authored paper was accepted at ICLR 2026: *"Decoding inner speech with an end-to-end brain-to-text neural interface."*
