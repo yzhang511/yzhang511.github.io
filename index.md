@@ -115,10 +115,10 @@ Hello! I am a postdoctoral researcher at Stanford University, jointly working wi
 ### Mentorship
 *Co-mentored with Prof. Liam Paninski unless otherwise noted*
 - [Tianxiao He](https://tianxiaohe.netlify.app/), PhD, Computer Science and Engineering, NYU
-- [Hanrui Lyu](https://www.linkedin.com/in/hanrui-lyu-336127227/), PhD, Statistics and Data Science, Northwestern
+- [Hanrui Lyu](https://www.linkedin.com/in/hanrui-lyu-336127227/), PhD, Statistics and Data Science, Northwestern University
 - [Jingyan Shen](https://www.linkedin.com/in/jyshen/) (with Dr. [Yongchan Kwon](https://scholar.google.com/citations?user=PElI4ikAAAAJ&hl=ko)), PhD, Computer Science, NYU
-- [Yanchen Wang](https://ppwangyc.github.io/), Research Assistant, Columbia
-- [Donato M. Jimnez-Benetó](https://www.linkedin.com/in/donato-manuel-jimenez-beneto/?originalSubdomain=es), PhD, EPFL
-- [Zixuan Wang](https://www.linkedin.com/in/zixuan-wang-472984356/?originalSubdomain=uk), Master's, Cambridge
-- Xuanyi Wu, Undergraduate, Columbia
-- [Mia Dai](https://www.linkedin.com/in/xinming-dai/), PhD, Statistics, Columbia
+- [Yanchen Wang](https://ppwangyc.github.io/), PhD, Computer Science, Stanford University
+- [Mia Dai](https://www.linkedin.com/in/xinming-dai/), PhD, Statistics, Columbia University
+- [Qihang Jin](https://lucas-jin-qh.github.io/), Research Assistant, Columbia University
+- [Tianshu Tan](https://www.linkedin.com/in/tianshu-tan-97775024a/), PhD, Biomedical Engineering, Johns Hopkins University 
+- [Baiyuan Chen](https://by-chen.com/), MPhil, Data Intensive Science, University of Cambridge
