@@ -11,6 +11,9 @@ Hello! I am a postdoctoral researcher at Stanford University, jointly working wi
 
 ### Recent News
 
+- 6/2026:
+    - Invited talk at [Neuralink](https://neuralink.com/): *"Neural Encoding and Decoding at Scale."*
+
 - 5/2026:
     - 🎓 Graduated with a PhD in Statistics from Columbia University.
     - Excited to join Stanford as a postdoctoral researcher in the [Neural Prosthetics Translational Lab](https://nptl.stanford.edu/) and the [Linderman Lab](https://lindermanlab.github.io/). 
